@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="700"/>
 </p>
 
 <h2 align="center">Namaste 🙏 I'm Jelita Anggraini!</h2>
@@ -21,14 +21,20 @@ Here are some ideas to get you started:
 -----------------------------------------
 ### About me
 
-<table border="0" width="100%">
+<table border="0" padding="0">
   <tr>
     <td width="70%" valign="middle">
       🚀 Undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
       🎓 Major in <b>Informatics Engineering</b><br>
       💻 Passionate about <b>Full Stack Development</b><br>
       🤖 Learning <b>AI, Machine Learning & Data Science</b><br>
-      🎨 Hobbies: Drawing, music, and comics
+      🎨 Hobbies: Drawing, music, and comics <br> <br>
+      <h5>🌟Follow Me On :</h5>
+      <a href="https://www.instagram.com/jlytaa.__?igsh=MTFnMjVwZnllNHNocg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <a href="https://wa.me/qrLFBA4YMSTYPHE1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+      <a href="www.linkedin.com/in/jelita-anggraini-5a05b5378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="img/anime.png" width="500"/>
