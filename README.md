@@ -19,23 +19,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -----------------------------------------
-#### About me
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        🚀 Undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
-        🎓 Major in <b>Informatics Engineering</b><br>
-        💻 Passionate about <b>Full Stack Development</b><br>
-        🤖 Learning <b>AI, Machine Learning & Data Science</b><br>
-        🖌️ Hobbies: Drawing, music, and comics
-      </td>
-      <td>
-        <img src="img/anime.png" width="180"/>
-      </td>
-    </tr>
-  </table>
-</p>
+### About me
+
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      🚀 Undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
+      🎓 Major in <b>Informatics Engineering</b><br>
+      💻 Passionate about <b>Full Stack Development</b><br>
+      🤖 Learning <b>AI, Machine Learning & Data Science</b><br>
+      🎨 Hobbies: Drawing, music, and comics
+    </td>
+    <td width="30%" align="center">
+      <img src="img/anime.png" width="500"/>
+    </td>
+  </tr>
+</table>
 
 -------------------------------------
 
