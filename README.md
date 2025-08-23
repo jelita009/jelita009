@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 <table border="0" width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="70%" valign="middle">
       🚀 Undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
       🎓 Major in <b>Informatics Engineering</b><br>
       💻 Passionate about <b>Full Stack Development</b><br>
       🤖 Learning <b>AI, Machine Learning & Data Science</b><br>
       🎨 Hobbies: Drawing, music, and comics
     </td>
-    <td width="30%" align="center">
-      <img src="img/anime.png" width="500"/>
+    <td width="30%" align="center" valign="middle">
+      <img src="img/anime.png" width="350"/>
     </td>
   </tr>
 </table>
