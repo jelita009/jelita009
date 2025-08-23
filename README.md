@@ -1,5 +1,8 @@
-![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0NndiZ2ptZHNjb3gwdnJlMW43dDZ1M3JuOHp2eTB5dzV5cGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
-## Namaste🙏 I'm Jelita Anggraini!
+<p align="center">
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500"/>
+</p>
+
+<h3 align="center">Namaste 🙏 I'm Jelita Anggraini!</h3>
 
 <!--
 **jelita009/jelita009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center;">
-  
-  <div style="flex: 1; padding-right: 20px;">
-    <h2>About Me</h2>
-    <p>🚀 an undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
-    🎓 Currently pursuing a degree in Informatics Engineering.<br>
-    💻 Hands-on experience in Full Stack Development.<br>
-    🌱 Learning Artificial Intelligence, Machine Learning, and Data Science.</p>
-  </div>
-  
-  <div style="flex: 1; text-align: center;">
-    <img src="img/anime.png" width="250"/>
-  </div>
-  
-</div>
-
-
+<table>
+  <tr>
+    <td>
+      🚀 an undergraduate student at <b>Politeknik Negeri Lhokseumawe</b><br>
+      🎓 Currently pursuing a degree in Informatics Engineering.<br>
+      💻 Hands-on experience in Full Stack Development.<br>
+      🌱 Learning Artificial Intelligence, Machine Learning, and Data Science.
+    </td>
+    <td>
+      <img src="img/anime.png" width="250"/>
+    </td>
+  </tr>
+</table>
 
 ##### My Skills Languages
 
