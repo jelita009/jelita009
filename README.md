@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 #### 🎵 Spotify History: My Music Diary
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pekvsb7r7h7el6lqcbmtbzywoa&unique={true|1|on|yes})
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31pekvsb7r7h7el6lqcbmtbzywoa&unique={true|1|on|yes}) -->
 
 ###
 
